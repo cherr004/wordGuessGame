@@ -1,4 +1,3 @@
-<script type="text/java"></script>
 
 //Create variable that prompts user to pick a letter
 var userLetter = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
@@ -46,3 +45,9 @@ var psychicgame = {
     guessSoFar: [],
     randomLetters: "a","b", "c", 
 }
+
+document.onkeyup = function(event) {};
+
+    for (var i = 0, 1 < 0; i++) {
+        
+    }
