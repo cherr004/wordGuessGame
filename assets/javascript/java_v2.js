@@ -57,7 +57,7 @@ document.onkeyup = function(event) {
         if (userGuess == letterToGuess) {
             wins++;
             document.querySelector('#win').innerHTML = "Wins: " + wins;
-            alert("Try Again Dummy!");
+            alert("You won Dummy!");
             reset();
         }
     } else if (guessesLeft == 0) {
